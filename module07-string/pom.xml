@@ -3,20 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.kerwim</groupId>
+        <artifactId>framework-learn-javase</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>com.kerwim</groupId>
-    <artifactId>framework-learn-javase</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>module01-intro</module>
-        <module>module02-operator</module>
-        <module>module03-processcontrol</module>
-        <module>module04-array</module>
-        <module>module05-method</module>
-        <module>module06-objectoriented</module>
-        <module>module07-string</module>
-    </modules>
+    <artifactId>module07-string</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
