@@ -16,6 +16,8 @@
         <module>module05-method</module>
         <module>module06-objectoriented</module>
         <module>module07-string</module>
+        <module>module08-commonuseapi</module>
+        <module>module01_basic-grammar</module>
     </modules>
 
     <properties>
