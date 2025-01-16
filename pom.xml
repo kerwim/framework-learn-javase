@@ -9,14 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>module01-intro</module>
-        <module>module02-operator</module>
-        <module>module03-processcontrol</module>
-        <module>module04-array</module>
-        <module>module05-method</module>
-        <module>module06-objectoriented</module>
-        <module>module07-string</module>
-        <module>module08-commonuseapi</module>
         <module>module01_basic-grammar</module>
     </modules>
 

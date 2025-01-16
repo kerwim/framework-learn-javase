@@ -10,6 +10,14 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/001-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/module01-intro/pom.xml" />
+        <option value="$PROJECT_DIR$/module02-operator/pom.xml" />
+        <option value="$PROJECT_DIR$/module03-processcontrol/pom.xml" />
+        <option value="$PROJECT_DIR$/module04-array/pom.xml" />
+        <option value="$PROJECT_DIR$/module05-method/pom.xml" />
+        <option value="$PROJECT_DIR$/module06-objectoriented/pom.xml" />
+        <option value="$PROJECT_DIR$/module07-string/pom.xml" />
+        <option value="$PROJECT_DIR$/module08-commonuseapi/pom.xml" />
       </set>
     </option>
   </component>
